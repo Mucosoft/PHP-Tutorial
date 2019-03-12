@@ -7,4 +7,4 @@ Hi World!
 Hi!
 Hello!
 
-Bu proje GitHub'taki ilk ciddi projemizdir ve bu projede pek bişi yapmicuq.
+Bu proje GitHub'taki ilk ciddi projemizdir ve bu projede pek bir şey yapmayacağız.
